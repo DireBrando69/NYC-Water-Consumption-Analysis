@@ -14,7 +14,8 @@
 
 **STEP 1:** Import Libraries That Will Be Used For Code import pandas as pd import matplotlib.pyplot as plt
 
-**STEP 2:** Load And Clean The Data #Read Water Consumption CSV File 
+**STEP 2:** Load And Clean The Data 
+#Read Water Consumption CSV File 
 ```df = pd.read\_csv("Water\_Consumption\_NYC\_2026.csv") ```
 
 #Preview Original Dataset 
